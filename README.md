@@ -1,2 +1,2 @@
 # Frontend-Practice
-Creating different wed designs using HTML, CSS, JavaScript and sometimes React
+Creating different web designs using HTML, CSS, JavaScript and sometimes React
